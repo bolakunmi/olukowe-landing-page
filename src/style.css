@@ -596,6 +596,7 @@ footer li:hover {
     position: absolute;
     right: 10px;
     top: 20px;
+    cursor: pointer;
   }
 
   .nav-ul2 {
